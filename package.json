@@ -1,0 +1,22 @@
+{
+  "name": "calling-card-cell-phones",
+  "version": "1.0.0",
+  "description": "package for calling-card-cell-phones",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kummer-speck/calling-card-cell-phones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kummer-speck/calling-card-cell-phones/issues"
+  },
+  "homepage": "https://github.com/kummer-speck/calling-card-cell-phones#readme"
+}
+
+
